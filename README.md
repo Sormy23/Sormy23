@@ -50,8 +50,6 @@
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/Sormy23/Sormy23/blob/main/img/stats.gif"  width="32"/> Stats</h4></summary>
-
-  ### GitHub
   <div align="center">
 
    ![](https://github-readme-stats.vercel.app/api?username=Sormy23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -61,3 +59,10 @@
 
   </div>
 </details>
+
+<p> 
+ <i>You can reach out to me via</i> 
+&nbsp;<a href="mailto:sven.oberwalder@icloud.com">
+     <img align="center" src="https://github.com/Sormy23/Sormy23/blob/main/img/Gmail.gif"  width="100"/>
+ </a>
+</p>
