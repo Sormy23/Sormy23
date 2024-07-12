@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/Somy23/Sormy23/blob/main/img/stats.gif"  width="32"/> Stats</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Sormy23/Sormy23/blob/main/img/stats.gif"  width="32"/> Stats</h4></summary>
 
   ### GitHub
   <div align="center">
